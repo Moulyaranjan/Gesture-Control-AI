@@ -1,3 +1,4 @@
+
 # Gesture Control AI
 
 AI-powered touchless human-computer interaction system using Computer Vision and MediaPipe.
@@ -25,3 +26,4 @@ AI-powered touchless human-computer interaction system using Computer Vision and
 ```bash
 pip install -r requirements.txt
 python main.py
+=======
